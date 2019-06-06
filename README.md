@@ -4,4 +4,4 @@ This is a app I made with just JavaScript to help me with budgeting and to see m
 See Here 
 |
 https://boring-goodall-af91f1.netlify.com/  |
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+
